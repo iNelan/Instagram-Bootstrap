@@ -1,0 +1,41 @@
+body {  
+    background-color: rgb(196, 196, 196);
+}
+
+.navbar-brand i {  
+    font-size: larger;
+}
+
+
+#dropdownMenuButton2 {  
+    background-color: white;
+    color: gray;
+}
+
+.botones { 
+    display: flex; 
+    justify-content: center;
+    background-color: rgb(240, 240, 240);
+    margin-top: -10px;
+}
+.rightside { 
+    display: flex; 
+    justify-content: space-between;
+}
+
+.form-control ancho { 
+    display: flex;
+    flex-grow: 1;
+}
+
+.centro { 
+    display: flex;
+    align-items: center;
+}
+
+.centrado { 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-grow: 1;
+}
